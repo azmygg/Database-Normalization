@@ -24,8 +24,7 @@ A short presentation covering the concept of **Database Normalization** and the 
 
 Open the PDF to explore the full explanation and examples.
 
-`Presentation Normalization Data base.pdf`
-
+Presentation Normalization Data base.pdf
 ---
 
 ## 👨‍💻 Author
